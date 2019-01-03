@@ -1,0 +1,3 @@
+---
+- name: Install jenkins
+  apt: name=bc state=present
